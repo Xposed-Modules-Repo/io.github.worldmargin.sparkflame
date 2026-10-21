@@ -5,6 +5,10 @@
 
 作用域：`com.ss.android.ugc.aweme`（抖音）
 
+源码：<https://gitee.com/WorldMargin/SparkFlame>（主）· <https://github.com/WorldMargin/SparkFlame>（镜像）
+问题反馈：<https://gitee.com/WorldMargin/SparkFlame/issues>
+许可证：Apache-2.0
+
 ---
 
 ## 它做什么
